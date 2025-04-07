@@ -4,13 +4,8 @@ nginx:1.26.3
 # xhofe/alist:latest
 #支持指定架构
 #  --platform=linux/arm64 xiaoyaliu/alist
-
-
 infiniflow/ragflow:v0.16.0
 infiniflow/infinity:v0.6.0-dev3
-
- 
-
 elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
